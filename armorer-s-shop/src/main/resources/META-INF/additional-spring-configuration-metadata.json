@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "rabbitmq.host",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.host."
+    },
+    {
+      "name": "rabbitmq.port",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.port."
+    },
+    {
+      "name": "rabbitmq.port",
+      "type": "java.lang.String",
+      "description": "Description for rabbitmq.port."
+    }
+  ] }
